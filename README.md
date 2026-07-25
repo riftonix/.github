@@ -7,6 +7,9 @@ delivery.
 We build small, composable tools that make engineering workflows easier to
 repeat across repositories and environments.
 
+Our home page is [riftonix.io](https://riftonix.io). It provides a central
+entry point to the organization and its components.
+
 ## Shared Automation Home
 
 This `.github` repository is the shared automation home for the Riftonix

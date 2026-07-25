@@ -7,9 +7,12 @@ delivery. ☁️
 We build small, composable tools that make engineering workflows easier to
 repeat across repositories and environments.
 
+Our home page is [riftonix.io](https://riftonix.io). It provides a central
+entry point to the organization and its components.
+
 ## Projects 🚀
 
-### [Kelm](https://github.com/riftonix/kelm) ☸️
+### [Kelm](https://github.com/riftonix/kelm) ⚙️
 
 A Kubernetes operator for managing the lifecycle of ephemeral namespaces. Kelm
 uses labels, annotations, TTL policies, and webhook-driven events to clean up
@@ -47,3 +50,9 @@ A minimal Go microservice that periodically reads data from PostgreSQL and
 publishes it to Kafka. It is designed as an interview exercise for practical
 troubleshooting, covering service configuration, database and message-broker
 integration, health checks, and deployment diagnostics. 🧪
+
+### [RiftOniX Website](https://github.com/riftonix/riftonix.github.io) 🌐
+
+The source repository for the [riftonix.io](https://riftonix.io) static site,
+including organization documentation, component guides, agent skills, and
+instructions for AI coding assistants. 📚
