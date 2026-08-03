@@ -24,12 +24,6 @@ Reusable Dagger modules and ready-to-run CI scenarios for container images,
 Helm charts, OpenTofu, Git operations, and static sites. It is the portable
 execution layer behind several RiftOniX workflows. ⚙️
 
-### [Container Images](https://github.com/riftonix/container-images) 📦
-
-Source repository for base OCI images. Images are maintained with Dockerfiles
-and Docker Buildx Bake manifests, then verified and published through released
-Dagger scenarios. 🐳
-
 ### [Shared Helm Charts](https://github.com/riftonix/helm-shared) ⎈
 
 Reusable Helm charts for deploying and operating Kubernetes workloads, centered
@@ -43,6 +37,12 @@ the platform evolves. 📚
 Reusable Terraform modules for infrastructure automation. Each module is
 maintained independently so projects can compose common infrastructure without
 duplicating its implementation. 🌍
+
+### [Container Images](https://github.com/riftonix/container-images) 📦
+
+Source repository for base OCI images. Images are maintained with Dockerfiles
+and Docker Buildx Bake manifests, then verified and published through released
+Dagger scenarios. 🐳
 
 ### [Kafgres](https://github.com/riftonix/kafgres) 🎯
 
