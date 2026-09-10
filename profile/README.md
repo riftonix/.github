@@ -51,6 +51,12 @@ publishes it to Kafka. It is designed as an interview exercise for practical
 troubleshooting, covering service configuration, database and message-broker
 integration, health checks, and deployment diagnostics. 🧪
 
+### [Metromaly](https://github.com/riftonix/metromaly) 🚇
+
+A turn-based 2D strategy game set in the Moscow Metro. Capture and develop
+stations, manage the faction economy, recruit units, and assemble squads to
+expand your territory. 🎮
+
 ### [RiftOniX Website](https://github.com/riftonix/riftonix.github.io) 🌐
 
 The source repository for the [riftonix.io](https://riftonix.io) static site,
