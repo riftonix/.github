@@ -20,9 +20,10 @@ temporary test and preview environments. 🧹
 
 ### [Daggerverse](https://github.com/riftonix/daggerverse) 🧩
 
-Reusable Dagger modules and ready-to-run CI scenarios for container images,
-Helm charts, OpenTofu, Git operations, and static sites. It is the portable
-execution layer behind several RiftOniX workflows. ⚙️
+Reusable Dagger modules and ready-to-run scenarios that speed up CI setup from
+scratch for container images, Helm charts, OpenTofu, Git operations, and static
+sites. The same workflows run across CI platforms and can run offline when
+dependencies are available internally. ⚙️
 
 ### [Shared Helm Charts](https://github.com/riftonix/helm-shared) ⎈
 
